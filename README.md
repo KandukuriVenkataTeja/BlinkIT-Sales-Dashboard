@@ -1,2 +1,2 @@
-# BlinkIT-Sales-Dashboard
+# Blinkit-Sales-Dashboard
 PowerBI
